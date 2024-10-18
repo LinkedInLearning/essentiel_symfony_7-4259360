@@ -4,22 +4,9 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-[Marketing Paragraph for Codespaces - without Codespaces: _remove all 3 pragraphs_ - with Codespace: _keep the right paragraph_ for the right course type (1 of 3)]
+Que vous soyez un développeur débutant ou expérimenté, ce cours est fait pour vous. Laurent N’Daw vous présente Symfony, un framework libre de type MVC, en PHP, et conçu pour le développement de sites web. Vous aborderez les prérequis et les principes fondamentaux puis vous vous plongerez rapidement dans la pratique avec la création de pages et de controllers, vous verrez également les systèmes de routage, les formulaires, les bases de données, les services et différents composants. Vous utiliserez de nombreux outils, comme le moteur de templates Twig, ainsi que l'ORM Doctrine, EntityManager ou encore la librairie Bootstrap.
 
-[Practice It: X | All Other [Project Mojo] Courses]
-
-Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utiliser Codespaces sur GitHub" pour savoir comment démarrer.    
-
-[Hands-On Introduction to X]
-
-La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utiliser Codespaces sur GitHub" pour savoir comment démarrer.    
-
-[Level Up (previously Code Challenges)] 
-
-Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail.  
-Chaque épisode de la série Level Up offre au moins 12 occasions de s'exercer à la programmation à différents niveaux de difficulté, afin que vous puissiez vous mettre au défi et renforcer ce que vous avez appris. Consultez la vidéo "Utiliser Codespaces sur GitHub" pour savoir comment mettre en place un espace de code.  
-
-DESCRIPTION DE LA FORMATION
+<p>Ce cours a été enregistré en partie avec la version 6 de Symfony et a été mis à jour pour refléter l’expérience utilisateur de la version 7.</p>
 
 ## Instructions
 
