@@ -8,6 +8,8 @@ Que vous soyez un développeur débutant ou expérimenté, ce cours est fait pou
 
 <p>Ce cours a été enregistré en partie avec la version 6 de Symfony et a été mis à jour pour refléter l’expérience utilisateur de la version 7.</p>
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ### Formateur
 
 **Nom du formateur** 
